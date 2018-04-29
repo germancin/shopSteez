@@ -1,0 +1,5 @@
+module.exports = {
+    secret: 'Create**Ur*-Secret=+Key-',
+    host: 'username:password@159.65.170.21',
+    db_name: 'db_landing',
+};
