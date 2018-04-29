@@ -24,3 +24,4 @@ firebase-debug.log
 /isomorphic
 .idea/
 /mongodb
+/src/config.js
